@@ -73,4 +73,6 @@ python snake_ai.py --qtable my_q.pickle
 ## Files
 - `snake_ai.py` — unified trainer/viewer
 - `snake_qtable.pickle` — generated after training
-- `1_snake_game.py` — simple manual Snake (baseline)
+
+## Contributing
+Pull requests and issues are very welcome—feel free to open one with ideas, fixes, or improvements.
